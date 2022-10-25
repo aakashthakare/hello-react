@@ -1,2 +1,3 @@
-# hello-react
-Repository to learn and explore on ReactJS.
+# Hello ReactJS!
+
+Repository to learn and explore ReactJS.
