@@ -1,0 +1,9 @@
+/devenv.local*
+/tools
+/target
+/.lein-*
+/.nrepl-port
+/*.iml
+/.idea
+env.sh
+.DS_Store

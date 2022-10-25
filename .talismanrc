@@ -1,0 +1,9 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: b40634f2f7234c96a42ab755de6bd5a5d7cb55866f61a25a3edb9ea4772ffd02
+- filename: src/config.js
+  checksum: 94d17c27e23e90c245b3301f4bc8aa4a4842b1af74a06c51aacdf2c8e9ab0d7e
+- filename: src/API.js
+  checksum: d2636a9ac765f81cf778c4dea18c1c55154cb53f3b4c0df5febc9688d05da166
+- filename: src/components/Home.js
+  checksum: 28264fe1716f0ad0361d94b5973d072da4202ff75019225d52a268d718b9fc62
